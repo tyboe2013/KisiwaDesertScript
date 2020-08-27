@@ -33,10 +33,10 @@ A Catch/Release Script for the Kisiwa Desert with a lot of Features
 - 99 SmokeBombs
 - Gear 'Decoy', 'Four-Leaf Clover', 'Baton Pass', 'Hopeless Tonic' and 'DoubleScreen'
 
-##How-To
+## How-To
 
-##Changelog
+## Changelog
 
-##Donations
+## Donations
 
-##Special Thanks
+## Special Thanks
