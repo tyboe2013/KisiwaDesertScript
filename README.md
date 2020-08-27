@@ -1,7 +1,7 @@
 # KisiwaDesertScript
 A Catch/Release Script for the Kisiwa Desert with a lot of Features
 
-Main Features:
+##### Main Features:
 - [x] 3 different movements available
 - [x] different Luma Options available
 - [x] Vullfy detection for survivability
@@ -9,7 +9,7 @@ Main Features:
 - [x] Fast Teleport to Temporium with SmokeBombs when using "safe" Movements
 - [x] Safety Running Away when it takes too much rounds to catch and release or the bot gets confused when lags happen
 
-ToDo:
+##### ToDo:
 - [ ] Bug Fixes
 - [ ] more Lua Options
 - [ ] Update Movements
@@ -18,17 +18,17 @@ ToDo:
 - [ ] you tell me what to add...
 
 ### Preparation
-Mandatory:
+##### Mandatory:
 - 2 Wiplumps with Cold Breeze
 - Text Speed to 'Instant' in Game Settings
 
-Recommendation:
+##### Recommendation:
 - 5 max lvl Wiplumps with Cold Breeze
 - 1 tanky max lvl TemTem
 - 99 TemCards
 - about 10 Smoke Bombs
 - quite a few Pansuns to rebuy Smoke Bombs and Temcards
 
-Optional:
+##### Optional:
 - 99 SmokeBombs
 - Gear 'Decoy', 'Four-Leaf Clover', 'Baton Pass', 'Hopeless Tonic' and 'DoubleScreen'
