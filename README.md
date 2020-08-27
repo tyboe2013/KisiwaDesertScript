@@ -16,5 +16,6 @@ ToDo:
 
 # HowTo
 At least 2 Wiplumps with Cold Breeze as first Attack are mandatory!
+
 I recommend 5 max lvl Wiplumps and one Tanky TemTem so that you don't pass out accidentially
 
