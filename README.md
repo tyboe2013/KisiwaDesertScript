@@ -29,4 +29,4 @@ Recommendation:
 
 Optional:
 - 99 SmokeBombs
-- Gear 'Decoy', 'Four-Leaf Clover', 'Hopeless Tonic', 'DoubleScreen' ond others...
+- Gear 'Decoy', 'Four-Leaf Clover', 'Baton Pass', 'Hopeless Tonic' and 'DoubleScreen'
