@@ -9,7 +9,7 @@ A Catch/Release Script for the Kisiwa Desert with a lot of Features
 - [x] Fast Teleport to Temporium with Smoke Bombs when using "safe" Movements
 - [x] Safety Running Away when it takes too much rounds to catch and release or the bot gets confused when lags happen
 
-##### ToDo:
+##### To-Do:
 - [ ] Bug Fixes
 - [ ] more Lua Options
 - [ ] Update Movements
@@ -67,8 +67,11 @@ You have the option to change a few Settings. These are found directly on top of
 ## Donations
 If you like my work you can consider a small donation for a beer [here](https://www.paypal.me/scriptchacho)
 
+## Bug Reporting
+If you find any bugs report them here (I still need to figure out how GitHub works) or directly on Discord: Muchacho13#0901
+
 ## Special Thanks
 - NhMarco for creating TemBot and making it possible to create LUA-Scripts
 - Mae for awesome Movement and help making these scripts. Mae's Github: https://github.com/MaeBot
 - Slagathor for help with PixelDetection. Slagathor's Github: https://github.com/tyboe2013
-- The whole TemBot Team and the Community!
+- The whole TemBot Team and the TemBot Community!
