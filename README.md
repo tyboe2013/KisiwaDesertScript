@@ -2,18 +2,20 @@
 A Catch/Release Script for the Kisiwa Desert with a lot of Features
 
 Main Features:
-- 3 different movements available
-- different Luma Options available
-- Vullfy detection for survivability
-- automatic Temcard and Smoke Bomb Rebuy and TemTem Heal when almost out of cards or too many dead Tems in team
-- Fast Teleport to Temporium with SmokeBombs when using "safe" Movements
-- Safety Running Away when it takes too much rounds to catch and release or the bot gets confused when lags happen
+- [x] 3 different movements available
+- [x] different Luma Options available
+- [x] Vullfy detection for survivability
+- [x] automatic Temcard and Smoke Bomb Rebuy and TemTem Heal when almost out of cards or too many dead Tems in team
+- [x] Fast Teleport to Temporium with SmokeBombs when using "safe" Movements
+- [x] Safety Running Away when it takes too much rounds to catch and release or the bot gets confused when lags happen
 
 ToDo:
-- Bug Fixes
-- Cleaner Scripting
-- More customization Options (Custom Sleep and Waiting Times and more)
-- you tell me what to add...
+- [ ] Bug Fixes
+- [ ] more Lua Options
+- [ ] Update Movements
+- [ ] Cleaner Scripting
+- [ ] More customization Options (Custom Sleep and Waiting Times and more)
+- [ ] you tell me what to add...
 
 ### Preparation
 Mandatory:
