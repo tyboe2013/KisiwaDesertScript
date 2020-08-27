@@ -38,5 +38,6 @@ A Catch/Release Script for the Kisiwa Desert with a lot of Features
 ## Changelog
 
 ## Donations
+If you like my work you can consider a small donation for a beer [here](www.paypal.me/scriptchacho)
 
 ## Special Thanks
