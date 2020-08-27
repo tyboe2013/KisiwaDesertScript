@@ -8,3 +8,13 @@ Main Features:
 - automatic Temcard and Smoke Bomb Rebuy and TemTem Heal when almost out of cards or too many dead Tems in team
 - Fast Teleport to Temporium with SmokeBombs when using "safe" Movements
 - Safety Running Away when it takes too much rounds to catch and release or the bot gets confused when lags happen
+
+ToDo:
+- Bug Fixes
+- Cleaner Scripting
+- More customization Options (Custom Sleep and Waiting Times)
+
+# HowTo
+At least 2 Wiplumps with Cold Breeze as first Attack are mandatory!
+I recommend 5 max lvl Wiplumps and one Tanky TemTem so that you don't pass out accidentially
+
