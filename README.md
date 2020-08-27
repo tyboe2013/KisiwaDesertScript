@@ -17,7 +17,7 @@ A Catch/Release Script for the Kisiwa Desert with a lot of Features
 - [ ] More customization Options (Custom Sleep and Waiting Times and more)
 - [ ] you tell me what to add...
 
-### Preparation
+## Preparation
 ##### Mandatory:
 - 2 Wiplumps with Cold Breeze
 - Text Speed to 'Instant' in Game Settings
