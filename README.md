@@ -16,13 +16,17 @@ ToDo:
 - you tell me what to add...
 
 # Preparation
-At least 2 Wiplumps with Cold Breeze as first Attack are mandatory! Also set Text Speed to 'Instant' in Game Settings.
+Mandatory:
+- 2 Wiplumps with Cold Breeze
+- Text Speed to 'Instant' in Game Settings
 
 Recommendation:
 - 5 max lvl Wiplumps with Cold Breeze
 - 1 tanky max lvl TemTem
 - 99 TemCards
-- 99 SmokeBombs
-- Quite a few Pansuns to rebuy Smoke Bombs and Temcards
-- Gear 'Decoy', 'Four-Leaf Clover', 'Hopeless Tonic' and 'DoubleScreen'
+- about 10 Smoke Bombs
+- quite a few Pansuns to rebuy Smoke Bombs and Temcards
 
+Optional:
+- 99 SmokeBombs
+- Gear 'Decoy', 'Four-Leaf Clover', 'Hopeless Tonic', 'DoubleScreen' ond others...
