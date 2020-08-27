@@ -68,7 +68,7 @@ You have the option to change a few Settings. These are found directly on top of
 If you like my work you can consider a small donation for a beer [here](https://www.paypal.me/scriptchacho)
 
 ## Bug Reporting
-If you find any bugs report them here (I still need to figure out how GitHub works) or directly on Discord: Muchacho13#0901
+If you find any bugs report them here (I still need to figure out how GitHub works) or send a message on Discord: Muchacho13#0901
 
 ## Special Thanks
 - NhMarco for creating TemBot and making it possible to create LUA-Scripts
