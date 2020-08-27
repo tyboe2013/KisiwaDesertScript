@@ -15,7 +15,12 @@ ToDo:
 - More customization Options (Custom Sleep and Waiting Times)
 
 # HowTo
-At least 2 Wiplumps with Cold Breeze as first Attack are mandatory!
+At least 2 Wiplumps with Cold Breeze as first Attack are mandatory! Also Set Text Speed to "Instant".
 
-I recommend 5 max lvl Wiplumps and one Tanky TemTem so that you don't pass out accidentially
+Recommendation:
+- 5 max lvl Wiplumps
+- one tanky max lvl TemTem
+- 99 TemCards
+- 99 SmokeBombs
+- Quite a few Pansuns to Rebuy SmokeBombs and Temcards
 
