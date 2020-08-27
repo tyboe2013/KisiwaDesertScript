@@ -59,10 +59,11 @@ You have the option to change a few Settings. These are found directly on top of
    - This is only for Telegram notification if you have multiple VM's to know which VM found a Luma
    - Set the Name your VM is called, needs to be inside the "", for example `vm = "TemBot VM Nr 3"`
 
-
 ## How-To
 
 ## Changelog
+
+##### V1 - Initial GitHub Release
 
 ## Donations
 If you like my work you can consider a small donation for a beer [here](https://www.paypal.me/scriptchacho)
