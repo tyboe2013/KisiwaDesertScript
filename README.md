@@ -72,6 +72,6 @@ If you find any bugs report them here (I still need to figure out how GitHub wor
 
 ## Special Thanks
 - NhMarco for creating TemBot and making it possible to create LUA-Scripts
-- Mae for awesome Movement and help making these scripts. Mae's Github: https://github.com/MaeBot
+- Mae for awesome Movement, Vullfy detection and help making these scripts. Mae's Github: https://github.com/MaeBot
 - Slagathor for help with PixelDetection. Slagathor's Github: https://github.com/tyboe2013
 - The whole TemBot Team and the TemBot Community!
