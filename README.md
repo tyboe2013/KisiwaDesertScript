@@ -26,12 +26,32 @@ A Catch/Release Script for the Kisiwa Desert with a lot of Features
 - 5 max lvl Wiplumps with Cold Breeze
 - 1 tanky max lvl TemTem
 - 99 TemCards
-- about 10 Smoke Bombs
+- at least 10 Smoke Bombs
 - quite a few Pansuns to rebuy Smoke Bombs and Temcards
 
 ##### Optional:
-- 99 SmokeBombs
+- 99 Smoke Bombs
 - Gear 'Decoy', 'Four-Leaf Clover', 'Baton Pass', 'Hopeless Tonic' and 'DoubleScreen'
+
+## User Settings
+You have the option to change a few Settings. These are found directly on top of the script:
+
+##### Movement Option
+   1. Up/Down - Unsafe Movement but does not require Smoke Bombs for Rebuy and Heal
+   2. Curved Movement - Does a curve when changing directions
+   3. Maevement - A Mix between Random, Circle and Curved Movements
+   
+##### Luma Options
+   1. Wait on Luma - Stops the script and waits for User input
+   2. Disconnect on Luma - Stops the script and closes the game
+   
+##### Number of Wiplumps
+   - You have to change the number according to the wiplumps you have in your team
+   - This is needed so the script knows when to return to heal
+   - maximum is 5
+   
+##### Number of TemCards before going to rebuy
+
 
 ## How-To
 
