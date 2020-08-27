@@ -37,7 +37,7 @@ A Catch/Release Script for the Kisiwa Desert with a lot of Features
 ## User Settings
 You have the option to change a few Settings. These are found directly on top of the script:
 
-##### Movement Option
+##### Movement Options
    1. Up/Down - Unsafe Movement but does not require Smoke Bombs for Rebuy and Heal
    2. Curved Movement - Does a curve when changing directions
    3. Maevement - A Mix between Random, Circle and Curved Movements
@@ -49,13 +49,15 @@ You have the option to change a few Settings. These are found directly on top of
 ##### Number of Wiplumps
    - You have to change the number according to the wiplumps you have in your team
    - This is needed so the script knows when to return to heal
-   - maximum is 5
+   - min 2, max 5
    
 ##### Amount of TemCards before going to rebuy
    - obvious, set the amount of TemCards thrown before refill at Temporium
+   - min 1, max 99
 
 ##### Your VM Name or Number
    - This is only for Telegram notification if you have multiple VM's to know which VM found a Luma
+   - Set the Name your VM is called, needs to be inside the "", for example `vm = "TemBot VM Nr 3"`
 
 
 ## How-To
