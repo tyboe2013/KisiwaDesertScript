@@ -15,6 +15,7 @@ A Catch/Release Script for the Kisiwa Desert with a lot of Features
 - [ ] Update Movements
 - [ ] Cleaner Scripting
 - [ ] More customization Options (Custom Sleep and Waiting Times and more)
+- [ ] Telegram message when the script stops (because of error or something)
 - [ ] you tell me what to add...
 
 ## Preparation and Requirements
@@ -50,7 +51,8 @@ You have the option to change a few Settings. These are found directly on top of
    - This is needed so the script knows when to return to heal
    - maximum is 5
    
-##### Number of TemCards before going to rebuy
+##### Amount of TemCards before going to rebuy
+   - obvious, set the amount of TemCards thrown before refill at Temporium
 
 ##### Your VM Name or Number
    - This is only for Telegram notification if you have multiple VM's to know which VM found a Luma
