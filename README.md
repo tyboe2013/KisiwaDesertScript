@@ -52,6 +52,9 @@ You have the option to change a few Settings. These are found directly on top of
    
 ##### Number of TemCards before going to rebuy
 
+##### Your VM Name or Number
+   - This is only for Telegram notification if you have multiple VM's to know which VM found a Luma
+
 
 ## How-To
 
@@ -61,3 +64,7 @@ You have the option to change a few Settings. These are found directly on top of
 If you like my work you can consider a small donation for a beer [here](https://www.paypal.me/scriptchacho)
 
 ## Special Thanks
+- NhMarco for creating TemBot and making it possible to create LUA-Scripts
+- Mae for awesome Movement and help making these scripts. Mae's Github: https://github.com/MaeBot
+- Slagathor for help with PixelDetection. Slagathor's Github: https://github.com/tyboe2013
+- The whole TemBot Team and the Community!
