@@ -15,7 +15,7 @@ ToDo:
 - More customization Options (Custom Sleep and Waiting Times and more)
 - you tell me what to add...
 
-# HowTo
+# Preparation
 At least 2 Wiplumps with Cold Breeze as first Attack are mandatory! Also set Text Speed to 'Instant' in Game Settings.
 
 Recommendation:
@@ -24,4 +24,5 @@ Recommendation:
 - 99 TemCards
 - 99 SmokeBombs
 - Quite a few Pansuns to rebuy Smoke Bombs and Temcards
+- Gear 'Decoy', 'Four-Leaf Clover', 'Hopeless Tonic' and 'DoubleScreen'
 
