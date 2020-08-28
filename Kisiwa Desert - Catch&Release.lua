@@ -391,7 +391,7 @@ function CheckAntiStuck(value) -- if nothing happens in fight because of lag, pr
 		local RandomRunz = math.random(330, 694)
         tblua:Sleep(RandomRunz)
         tblua:PressKey(0x38)
-		value = 0
+		return 0
 	else
 	tblua:Sleep(math.random(1320, 1594))
 	value = value + 1
