@@ -61,22 +61,34 @@ You have the option to change a few Settings inside the LUA. These are found dir
    You can Download the latest release [here](https://github.com/Muchacho13Scripts/KisiwaDesertScript/releases)
    
    Click on 'Assets' and download the LUA file
+   
+   ![alt text](https://github.com/Muchacho13Scripts/KisiwaDesertScript/blob/master/img/downloadLUA.png?raw=true)
 
 ##### 2. Start TemBot
 
 ##### 3. Edit your Settings in 'Main Settings' and 'Misc Settings'
    Check these Screenshots:
+   
+   ![alt text](https://github.com/Muchacho13Scripts/KisiwaDesertScript/blob/master/img/settings1.png?raw=true)
+   
+   ![alt text](https://github.com/Muchacho13Scripts/KisiwaDesertScript/blob/master/img/settings2.png?raw=true)
 
 ##### 4. Load up the LUA Script
    Click on 'Load File' and open the downloaded LUA File
+   
+   ![alt text](https://github.com/Muchacho13Scripts/KisiwaDesertScript/blob/master/img/loadLUA.png?raw=true)
 
 ##### 5. Change Settings in LUA Script to your liking
    Check 'User Settings' in this ReadMe for more information
    
    You may have to scroll down a bit to see all Settings
    
+   ![alt text](https://github.com/Muchacho13Scripts/KisiwaDesertScript/blob/master/img/LUASettings.png?raw=true)
+   
 ##### 6. Start TemTem and move in front of Kisiwa Desert Shop
    Start here:
+   
+   ![alt text](https://github.com/Muchacho13Scripts/KisiwaDesertScript/blob/master/img/startlocation.png?raw=true)
    
 ##### 7. Start the Script 
    Default Button to start is 'F3'
