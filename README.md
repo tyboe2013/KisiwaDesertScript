@@ -11,7 +11,7 @@ A Catch/Release Script for the Kisiwa Desert with a lot of Features
 
 
 ##### To-Do:
-- [ ] Update Movements (Movements are kinda bad for now, waiting for an update)
+- [ ] Update Movements (Movements are kinda bad for now, waiting for an update from TemBot)
 - [ ] Bug Fixes
 - [ ] more Luma Options
 - [ ] Cleaner Scripting
