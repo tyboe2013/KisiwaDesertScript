@@ -523,12 +523,12 @@ end
 function movementupdown(move) -- movement up/down function	
     if move == 1 then
         tblua:KeyDown(0x57)
-        tblua:Sleep(tblua:GetTickrate()*math.random(150, 300))
+        tblua:Sleep(tblua:GetTickrate()*math.random(99, 222))
         tblua:KeyUp(0x57)
         return 2
     else
         tblua:KeyDown(0x53)
-        tblua:Sleep(tblua:GetTickrate()*math.random(150, 300))
+        tblua:Sleep(tblua:GetTickrate()*math.random(99, 222))
         tblua:KeyUp(0x53)
         return 1
     end
