@@ -50,9 +50,9 @@ vm = "Your VM Name"
 import ('TemBot.Lua.TemBotLua')
 usedcards 		= 0
 dead 			= 0
-MovementSwitch 	= 3
-DeadBeforeRebuy = wiplumps - 2
-TemcardsBeforeRebuy = tblua:GetRebuy()
+MovementSwitch 		= 2
+DeadBeforeRebuy 	= wiplumps - 2
+TemcardsBeforeRebuy 	= tblua:GetRebuy()
 ----------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------------------
