@@ -48,10 +48,10 @@ vm = "Your VM Name"
 -----------------Do Not Change if you don't know what you are doing!!!------------------------------
 ----------------------------------Attributes--------------------------------------------------------
 import ('TemBot.Lua.TemBotLua')
-usedcards 		= 0
-dead 			= 0
-MovementSwitch 		= 2
-DeadBeforeRebuy 	= wiplumps - 2
+usedcards 				= 0
+dead 					= 0
+MovementSwitch 			= 2
+DeadBeforeRebuy 		= wiplumps - 2
 TemcardsBeforeRebuy 	= tblua:GetRebuy()
 ----------------------------------------------------------------------------------------------------
 
@@ -475,7 +475,7 @@ function LumaSingleEncounterCatch() -- sequences for single encounter
 	return cards, deadtem
 end
 
-function LumaDoubleEncounterCatch() -- sequences for single encounter
+function LumaDoubleEncounterCatch() -- sequences for double encounter
 	local antistuck = 0
 	local turn = 1
 	local cards = 0
@@ -514,23 +514,21 @@ function MainMovement(mov, switch)
 	if mov == 1 then		
 		return movementupdown(switch)
 	elseif mov == 2 then
-		movementcurved(switch)
-		return 1
+		return movementcurved(switch)
 	elseif mov == 3 then
-		movementmaevement(switch)
-		return 1
+		return movementmaevement(switch)
 	end
 end
 
 function movementupdown(move) -- movement up/down function	
     if move == 1 then
         tblua:KeyDown(0x57)
-        tblua:Sleep(tblua:GetSleepTime())
+        tblua:Sleep(tblua:GetTickrate()*math.random(150, 300))
         tblua:KeyUp(0x57)
         return 2
     else
         tblua:KeyDown(0x53)
-        tblua:Sleep(tblua:GetSleepTime())
+        tblua:Sleep(tblua:GetTickrate()*math.random(150, 300))
         tblua:KeyUp(0x53)
         return 1
     end
@@ -540,15 +538,15 @@ function movementcurved(move) -- movement curved
     if move == 1 then
 		tblua:CircleArea()
 		tblua:Sleep(math.random(100, 300))
-		return move
+		return 2
     elseif move == 2 then
         tblua:RandomArea()
 		tblua:Sleep(math.random(700, 1200))
-		return move
+		return 1
     else
         tblua:CircleArea()
 		tblua:Sleep(math.random(100, 300))
-		return move
+		return 2
 	end
 end
 
