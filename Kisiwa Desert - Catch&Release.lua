@@ -89,11 +89,11 @@ function SingleEncounterBattle() -- sequences for single encounter
 			cards = cards + SoloEncounterFirstCatch(cards)
 			turn = turn + 1
 			antistuck = 0
-		elseif turn < 4 and tblua:IsInFight() == true then
+		elseif turn < 6 and tblua:IsInFight() == true then
 			cards = cards + SoloEncounterSecondCatch(cards)
 			turn = turn + 1
 			antistuck = 0
-		elseif turn == 4 and tblua:IsInFight() == true then
+		elseif turn == 6 and tblua:IsInFight() == true then
 			runningaway()
 		else
 			ReleaseTem()
@@ -134,7 +134,7 @@ function DoubleEncounterBattle() -- sequences for double encounters
 				cards = cards + DoubleEncounterFirstCatch(cards)
 				turn = turn + 1
 				antistuck = 0
-			elseif turn < 5 and tblua:IsInFight() == true then
+			elseif turn < 7 and tblua:IsInFight() == true then
 				if CheckNumberOfEnemies() == 2 then
 					cards = cards + DoubleEncounterSecondCatchTem(cards)
 				else
@@ -142,7 +142,7 @@ function DoubleEncounterBattle() -- sequences for double encounters
 				end
 				turn = turn + 1
 				antistuck = 0
-			elseif turn == 5 and tblua:IsInFight() == true then
+			elseif turn == 7 and tblua:IsInFight() == true then
 				runningaway()
 			else
 				ReleaseTem()
