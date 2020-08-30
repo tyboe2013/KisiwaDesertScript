@@ -59,7 +59,7 @@ You have the option to change a few Settings inside the LUA. These are found dir
 ## How-To
 
 ##### 1. Download the Script
-   You can Download the latest release [here](https://github.com/Muchacho13Scripts/KisiwaDesertScript/releases)
+   You can Download the latest release [here](https://github.com/Muchacho13Scripts/KisiwaDesertScript/releases/latest)
    
    Click on 'Assets' and download the LUA file
    
