@@ -58,6 +58,9 @@ You have the option to change a few Settings inside the LUA. These are found dir
 ##### Your VM Name or Number
    - This is only for Telegram notification if you have multiple VM's to know which VM found a Luma
    - Set the Name your VM is called, needs to be inside the "", for example `vm = "TemBot VM Nr 3"`
+   
+##### Keep all Tems
+   - Set this to '1' if you wish to keep all Tems instead of releasing it
 
 ## How-To
 
