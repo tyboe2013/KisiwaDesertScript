@@ -5,14 +5,16 @@ A Catch/Release Script for the Kisiwa Desert with a lot of Features
 - [x] 3 different movements available
 - [x] 3 Luma Options available
 - [x] Vullfy detection for survivability
-- [x] automatic Temcard and Smoke Bomb Rebuy and TemTem Heal when almost out of cards or too many dead Tems in team
+- [x] automatic Temcard and Smoke Bomb Rebuy and TemTem Heal when completely out of cards or too many dead Tems in team
 - [x] Fast Teleport to Temporium with Smoke Bombs when using "safe" Movements
 - [x] Safety Running Away when it takes too much rounds to catch and release or the bot gets confused when lags happen
+- [x] Options to keep all Tems
 
 
 ##### To-Do:
 - [ ] Update Movements (Movements are kinda bad for now, waiting for an update from TemBot)
 - [ ] Bug Fixes
+- [ ] Keep 50 SV
 - [ ] more Luma Options
 - [ ] Cleaner Scripting
 - [ ] More customization Options (Custom Sleep and Waiting Times and more)
@@ -34,6 +36,7 @@ A Catch/Release Script for the Kisiwa Desert with a lot of Features
 ##### Optional:
 - 99 Smoke Bombs
 - Gear 'Decoy', 'Four-Leaf Clover', 'Baton Pass', 'Hopeless Tonic' and 'DoubleScreen'
+- Wiplumps with a SPD Stat of 73 or higher to outspeed every Vullfys Plague attack
 
 ## LUA Settings
 You have the option to change a few Settings inside the LUA. These are found directly on top of the script:
