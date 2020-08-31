@@ -1,6 +1,13 @@
 # KisiwaDesertScript
 A Catch/Release Script for the Kisiwa Desert with a lot of Features
 
+After 2 hours of testing(v1.0.5beta):
+
+62.5 Tems/hr
+
+6077 Pansuns/hr
+
+
 ##### Main Features:
 - [x] 3 different movements available
 - [x] 3 Luma Options available
