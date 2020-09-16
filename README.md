@@ -73,9 +73,6 @@ You have the option to change a few Settings inside the LUA. These are found dir
 ##### Keep all Tems
    - Set this to '1' if you wish to keep all Tems instead of releasing it
    
-##### Speed
-   - Set this to '1' if you wish to keep all Tems instead of releasing it
-   
 ##### Telegram Notification
    - Set this to '1' if you wish to get Status Notifications (Encounter, Amount of Rebuys...)
 
