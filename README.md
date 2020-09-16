@@ -15,17 +15,20 @@ After 2 hours of testing(v1.0.5beta):
 - [x] automatic Temcard and Smoke Bomb Rebuy and TemTem Heal when completely out of cards or too many dead Tems in team
 - [x] Fast Teleport to Temporium with Smoke Bombs when using "safe" Movements
 - [x] Safety Running Away when it takes too much rounds to catch and release or the bot gets confused when lags happen
+- [x] Auto-Unstuck
 - [x] Options to keep all Tems
-
+- [x] Optional Telegram Status and Luma Messages
+- [x] Auto-Running to non-Vullfy Area
+- [x] Pauses randomized on different Spots
+- [x] Speed Modifier (can easily break stuff)
+- [x] Welcome Message with Setting Checks
+- [x] Fix SaiCard in Invetory (in testing)
 
 ##### To-Do:
-- [ ] Update Movements (Movements are kinda bad for now, waiting for an update from TemBot)
+- [ ] Update Movements (too lazy to create them myself)
 - [ ] Bug Fixes
 - [ ] Keep 50 SV
-- [ ] more Luma Options
 - [ ] Cleaner Scripting
-- [ ] More customization Options (Custom Sleep and Waiting Times and more)
-- [ ] Telegram message when the script stops (because of error or something)
 - [ ] you tell me what to add...
 
 ## Preparation and Requirements
@@ -56,6 +59,7 @@ You have the option to change a few Settings inside the LUA. These are found dir
 ##### Luma Options
    1. Wait on Luma - Stops the script and waits for User input
    2. Disconnect on Luma - Stops the script and closes the game
+   3. Throw Cards on Luma - no attacking, just throwing until Tem is catched
    
 ##### Number of Wiplumps
    - You have to change the number according to the wiplumps you have in your team
@@ -68,11 +72,21 @@ You have the option to change a few Settings inside the LUA. These are found dir
    
 ##### Keep all Tems
    - Set this to '1' if you wish to keep all Tems instead of releasing it
+   
+##### Speed
+   - Set this to '1' if you wish to keep all Tems instead of releasing it
+   
+##### Telegram Notification
+   - Set this to '1' if you wish to get Status Notifications (Encounter, Amount of Rebuys...)
 
+##### Set your speed for ALL Actions in %
+   - 100 is standard speed
+   - Attention, if going too fast or too slow you will definetly break something
+   
 ## How-To
 
 ##### 1. Download the Script
-   You can Download the latest release [here](https://github.com/Muchacho13Scripts/KisiwaDesertScript/releases/latest)
+   - You can Download the latest release [here](https://github.com/Muchacho13Scripts/KisiwaDesertScript/releases/latest)
    
    Click on 'Assets' and download the LUA file
    
